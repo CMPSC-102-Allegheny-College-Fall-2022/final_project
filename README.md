@@ -35,6 +35,8 @@ Caption 1: You are invited to create a practical demonstration for Discrete Stru
 
 ## Timeline
 
+The below due dates cannot be extended. An assignment is considered late if it has been submitted after the deadline.
+
 Activity                                                                      | Deadline
 ----------------------------------------------------------------------------- | ------------------------------------------
 `writing/proposal.md`: Create a team and complete proposal of study. Discuss relevance to Discrete Structures. | By end of class; 2:20pm on Monday, November 21st, 2022
