@@ -37,7 +37,7 @@ Caption 1: You are invited to create a practical demonstration for Discrete Stru
 
 Activity                                                                      | Deadline
 ----------------------------------------------------------------------------- | ------------------------------------------
-`writing/proposal.md`: Create a team and complete proposal of study. Discuss relevance to Discrete Structures. | By end of class; 11:00am on Monday, November 21st, 2022
+`writing/proposal.md`: Create a team and complete proposal of study. Discuss relevance to Discrete Structures. | By end of class; 2:20pm on Monday, November 21st, 2022
 `writing/progress.md`: Demonstrate progress during class work time (commits from each member). Addition of data, references, notes, etc. to show that your project is building. | By end of lab; 4:20pm on Monday, November 28th, 2022
 `writing/report.md`: Final report due.| By 19th December 2022, 9:00am
 Presentation of research and discussion of results | 5th December - 9th December, 2022 (Exact date TBA)
