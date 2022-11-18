@@ -11,7 +11,7 @@ Presentations: 5th December - 9th December, 2022
 Final Submission Due: 16th December 2022, 7:00am
 
 ![logo](graphics/hands.png)
-Caption 1: You are invited to create a practical demonstration for Discrete Structures! Your topic can cover any concept from the course, or that should be in the course. Interestingly, ideas may come from all over mathematics but if you know how to program, then you are in a better position to study and demonstrate those ideas. 
+Caption 1: You are invited to create a practical demonstration for Discrete Structures! Your topic can cover any concept from the course, or that should or could be in the course. Interestingly, demonstration ideas may come from all over mathematics but if you know how to program, then you are in a better position to be able to showcase them! 
 
 ## Contents
 
@@ -24,8 +24,6 @@ Caption 1: You are invited to create a practical demonstration for Discrete Stru
 - [Cloning Your Repository](#Cloning-Your-Repository)
 - [GatorGrade](#GatorGrade)
 - [Assessment](#Assessment)
-
-
 
 ## Objectives
 
