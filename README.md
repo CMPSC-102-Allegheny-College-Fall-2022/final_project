@@ -29,6 +29,9 @@ Caption 1: You are invited to create a practical demonstration for Discrete Stru
 
 ## Objectives
 
+  * To learn and understand a mathematical concept
+  * To learn and understand how to write the concept into computer code.
+  * To gain experience in demonstrating concepts using code.
 
 ## Timeline
 
